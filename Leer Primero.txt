@@ -1,0 +1,6 @@
+------------- Ejercicios C# -----------
+
+1) La carpeta "Ejercicios resueltos individualmente", contiene 
+   todos los ejercicios resueltos en proyectos individuales
+2) La carpeta "Ejercicios", contiene todos los ejercicios
+   resueltos en un solo proyecto y realizó el uso de clases.
